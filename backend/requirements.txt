@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+opencv-python
+mediapipe
+insightface
+scikit-image
+numpy
+scipy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+Pillow
+python-dotenv
+onnxruntime
